@@ -1,0 +1,4 @@
+CareerCup
+=========
+
+Practice for algorithms
